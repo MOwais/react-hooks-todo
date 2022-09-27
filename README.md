@@ -33,8 +33,3 @@ serve -s build
 
 To Visit Production App:
 localhost:5000
-
-
-Purpose
-
-The purpose of this project was to showcase my skills for assessment as part of an ongoing interview process.
